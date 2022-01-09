@@ -10,8 +10,6 @@
 
 ## Official Resources
 
-About this section. Optional. Keep this short and focus on the list.
-
 - [Blog](https://unlock-protocol.com/blog)
 - [Docs](https://docs.unlock-protocol.com/)
 
